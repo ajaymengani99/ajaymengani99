@@ -1,4 +1,5 @@
-![Black Minimal Motivation Quote LinkedIn Banner (2) (1)](https://user-images.githubusercontent.com/104735037/166164847-4edf17a9-add0-411d-b53c-d39b24d3529c.png)
+![Black Minimal Motivation Quote LinkedIn Banner (3) (2)](https://user-images.githubusercontent.com/104735037/166164935-3eccc971-5b4e-4bf1-a39b-ceb33fc3521c.png)
+
 - 👨‍🎓 I'm a Graduate fascinated towards things that work in 1's and 0's
 - 👍 Can also be classified as Technophile
 - 👨‍💻 I’m currently learning Linux
